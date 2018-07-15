@@ -25,13 +25,33 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 * July 9, 2018 Multiple Regression
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Multiple%20Linear%20Regression)
 </details>
----
+
+
 <details>
  <summary> Day 3 </summary>
 * July 12, 2018 Logistic Regression
 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
 </details>
+
+
+<details>
+ <summary> Day 4 </summary>
+* July 14, 2018 SVM
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
+</details>
+
+
+
+<details>
+ <summary> Day 5 </summary>
+* July 15, 2018 KNN
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
+</details>
+
+
 
 > NOTE: 
 ``` bash
