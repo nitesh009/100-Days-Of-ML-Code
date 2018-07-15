@@ -1,6 +1,6 @@
 ## 100-Days-Of-ML-Code
 
-> This Repository contains **100 days ML Code Challenge **
+> This Repository is a part of **100 days ML Code Challenge **
 ---
 <details>
  <summary> Day 0 </summary>
