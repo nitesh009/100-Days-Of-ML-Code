@@ -27,7 +27,7 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 </details>
 ---
 <details>
- <summary> Day 2 </summary>
+ <summary> Day 3 </summary>
 * July 12, 2018 Logistic Regression
 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
