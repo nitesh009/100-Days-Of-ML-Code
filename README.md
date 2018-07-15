@@ -4,14 +4,11 @@
 
 ---
 <details>
- <summary-list> Daily Progess </summary-list>
->  #### Day 0: July 6, 2018 Simple Linear Regression
-``` bash
-Thoughts: Linear Regression on House Price Prediction
-```
-Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Simple%20Linear%20Regression
+ <summary-list> Day 0 </summary-list>
+* July 6, 2018 Simple Linear Regression
+  Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Simple%20Linear%20Regression
  "Example")
-
+</details>
 
 ---
 
@@ -37,7 +34,6 @@ Thoughts: Social Network Dataset
 ```
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
 
-</details>
 
 > NOTE: 
 ``` bash
