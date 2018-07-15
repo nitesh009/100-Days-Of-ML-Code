@@ -1,4 +1,4 @@
-*** SVM
+## SVM
  
  ---
  ‘Regression’ as a sword capable of slicing and dicing data efficiently, 
@@ -11,5 +11,5 @@
 classification or regression challenges. However,  it is mostly used in classification problems
 
 
-*** Reference
+### Reference
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example
