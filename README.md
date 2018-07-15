@@ -22,6 +22,7 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 <details>
  <summary> Day 2 </summary>
 * July 9, 2018 Multiple Regression
+ 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Multiple%20Linear%20Regression)
 </details>
 
@@ -51,7 +52,7 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 
 
 
-
+---
 
 > NOTE: 
 ``` bash
