@@ -56,5 +56,5 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 
 > NOTE: 
 ``` bash
-All the algorithms are implemented using Python.
+All algorithms are implemented using Python.
 ```
