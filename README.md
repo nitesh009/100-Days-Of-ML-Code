@@ -1,42 +1,60 @@
 ## 100-Days-Of-ML-Code
 
-> This Repository contains **100 days ML Code Challenge **
-
+> This Repository is a part of **100 days ML Code Challenge **
 ---
-
->  #### Day 0: July 6, 2018 Simple Linear Regression
-``` bash
-Thoughts: Linear Regression on House Price Prediction
-```
-Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Simple%20Linear%20Regression
+<details>
+ <summary> Day 0 </summary>
+* July 6, 2018 Simple Linear Regression
+ 
+  Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Simple%20Linear%20Regression
  "Example")
+</details>
 
 
----
+<details>
+ <summary> Day 1 </summary>
+ * July 7, 2018 Support Vector Regression
 
->  #### Day 1: July 7, 2018 Support Vector Regression
-``` bash
-Thoughts: Computer Hardware Performance Prediction
-```
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/SVR)
+</details>
 
----
 
->  #### Day 2: July 9, 2018 Multiple Regression
-``` bash
-Thoughts: 50 startups dataset
-```
+<details>
+ <summary> Day 2 </summary>
+* July 9, 2018 Multiple Regression
+ 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Multiple%20Linear%20Regression)
+</details>
+
+
+<details>
+ <summary> Day 3 </summary>
+* July 12, 2018 Logistic Regression
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
+</details>
+
+
+<details>
+ <summary> Day 4 </summary>
+* July 14, 2018 SVM
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/SVM)
+</details>
+
+
+<details>
+ <summary> Day 5 </summary>
+* July 15, 2018 KNN
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/KNN)
+</details>
+
+
 
 ---
-
->  #### Day 3: July 12, 2018 Logistic Regression
-``` bash
-Thoughts: Social Network Dataset
-```
-Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Logistic%20Regression)
 
 > NOTE: 
 ``` bash
-All the algorithms are implemented using Python.
+All algorithms are implemented using Python.
 ```
