@@ -85,15 +85,13 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 ### FAQ's
 ---
 
-* How do I know which model to choose for my problem ?
-
-let's answer this question:
+> How do I know which model to choose for my problem ?
 
 Same as for regression models, you first need to figure out whether your problem is linear or non linear.
 
-If your problem is linear, you should go for Logistic Regression or SVM.
+If your problem is linear, you should go for **Logistic Regression or SVM**.
 
-If your problem is non linear, you should go for K-NN, Naive Bayes, Decision Tree or Random Forest.
+If your problem is non linear, you should go for **K-NN, Naive Bayes, Decision Tree or Random Forest**.
 
 Then from a business point of view, you would rather use:
 
