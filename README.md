@@ -50,7 +50,35 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/KNN)
 </details>
 
+<details>
+ <summary> Day 6 </summary>
+* July 16, 2018 Kernel SVM
 
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/kernel_SVM)
+</details>
+
+<details>
+ <summary> Day 7 </summary>
+* July 17, 2018 Naive Bayes
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Naive%20Bayes)
+</details>
+
+<details>
+ <summary> Day 8 </summary>
+* July 18, 2018 Decision Tree
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Decision%20Tree)
+</details>
+
+
+
+<details>
+ <summary> Day 9 </summary>
+* July 19, 2018 Random Forest
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Random%20Forest)
+</details>
 
 ---
 
