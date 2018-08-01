@@ -90,14 +90,14 @@ Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/
 
 
 <details>
- <summary> Day 10 </summary>
+ <summary> Day 11 </summary>
 July 22, 2018 Clustering
 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Clustering/hc)
 </details>
 
 <details>
- <summary> Day 11 </summary>
+ <summary> Day 12 </summary>
 July 23, 2018 Association Rule Learning
 
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Apriori)
