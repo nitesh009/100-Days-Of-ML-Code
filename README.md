@@ -103,6 +103,19 @@ July 23, 2018 Association Rule Learning
 Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Apriori)
 </details>
 
+<details>
+ <summary> Day 13 </summary>
+ Upper Confidence Bound
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Apriori)
+</details>
+
+<details>
+ <summary> Day 14 </summary>
+Thompson Sampling
+
+Link to work: [Sample Example](https://github.com/nitesh009/100-Days-Of-ML-Code/tree/master/Apriori)
+</details>
 
 ---
 
